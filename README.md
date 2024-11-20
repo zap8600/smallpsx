@@ -1,2 +1,2 @@
 # smallpsx
-Small PS1 Emulator.
+Header-only PS1 Emulator.
